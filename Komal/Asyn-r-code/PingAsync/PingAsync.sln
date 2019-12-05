@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingAsync", "PingAsync.csproj", "{BCCC16C4-2EA3-4AE3-9A45-D9101DD1900B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCCC16C4-2EA3-4AE3-9A45-D9101DD1900B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCC16C4-2EA3-4AE3-9A45-D9101DD1900B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCC16C4-2EA3-4AE3-9A45-D9101DD1900B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCC16C4-2EA3-4AE3-9A45-D9101DD1900B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5F2857C-978C-4FB5-B05E-41C6E2CBA00A}
+	EndGlobalSection
+EndGlobal

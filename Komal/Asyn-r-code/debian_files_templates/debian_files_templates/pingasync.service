@@ -1,0 +1,11 @@
+[Unit]
+Description=Ping Async
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/opt/kyaaqba/pingtool/pingtool
+ExecReload=/bin/kill -HUP $MAINPID
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,35 @@
+Source: pingasync
+Section: unknown
+Priority: optional
+Maintainer: Komal Syed <v-kosyed@microsoft.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: https://anonscm.debian.org/git/collab-maint/pingasync.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/pingasync.git
+
+Package: pingasync
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
+ 
+ 
+ ===
+old file
+Source: pingasync
+Section: unknown
+Priority: optional
+Maintainer: root <root@unknown>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: https://anonscm.debian.org/git/collab-maint/pingasync.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/pingasync.git
+
+Package: pingasync
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

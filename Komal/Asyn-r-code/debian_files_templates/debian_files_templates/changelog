@@ -1,0 +1,17 @@
+pingasync (1.0-0ubuntu1) bionic; urgency=medium
+
+pingasync (1.1) unstable; urgency=medium
+
+  * Initial Release.
+
+ -- Karam Yaaqba <v-kayaaq@microsoft.com>  Tue, 29 Oct 2019 15:49:48 -0700
+Komal Syed <v-kosyed@microsoft.com>
+
+-- Komal Syed <v-kosyed@microsoft.com>
+
+
+
+pingasync (1.0-0ubuntu1) bionic; urgency=medium
+  * Initial Release.
+  
+  -- Komal Syed <v-kosyed@microsoft.com> Tue, 29 Oct 2019 15:49:48 -0700
